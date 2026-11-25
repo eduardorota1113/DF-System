@@ -4,7 +4,7 @@ Projeto integrador de Programação Orientada a Objetos (POO). O DiagnoseFácil 
 
 ## Integrante
 
-- Eduardo Prens Rota — RA: preencher antes da entrega.
+- Eduardo Prens Rota — RA: 10231.
 - Curso: Análise e Desenvolvimento de Sistemas.
 
 ## Aplicação em funcionamento
